@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <p class="post-meta"><time class="dt-published" datetime="{{ page.date }}">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+  <article class="post-content e-content">
+  	<h2>
+	{{ content }}
+	</h2>
+  </article>
+
+</div>
