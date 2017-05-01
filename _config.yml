@@ -1,0 +1,25 @@
+# - title: "[TITLE]"
+# - description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+# - base# - url: "[PATH]" # e.g. /manton or /az/azasdfasdf
+# - url: "http://[HOSTNAME]" # the base hostname & protocol for your site
+# - markdown: kramdown
+# - user# - name: "[USERNAME]"
+# - permalink: /:year/:month/:slug/
+title: "Josh Dick"
+tagline: ""
+description: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+credits: "Powered by <a href=\"http://micro.blog/\">Micro.blog</a>."
+baseurl: ""
+url: "http://jd.micro.blog"
+markdown: "kramdown"
+username: "jd"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Josh Dick"
+name: "Josh Dick"
+gravatar_hash: "0b774135511c0c91cf81be7b4cdee7e6"
+avatar: "http://www.gravatar.com/avatar/0b774135511c0c91cf81be7b4cdee7e6?s=160"
+full_name: "Josh Dick"
+bio: ""
+twitter_username: ""
+github_username: ""
