@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Josh Dick</title>
+    <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
+    <link>http://jd.micro.blog/</link>
+    <pubDate>Mon, 01 May 2017 18:04:41 +0000</pubDate>
+    <lastBuildDate>Mon, 01 May 2017 18:04:41 +0000</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;Extinguishing fire with gunpowder: &lt;a href=&quot;https://www.youtube.com/watch?v=aGgz-VjMEeY&quot;&gt;https://www.youtube.com/watch?v=aGgz-VjMEeY&lt;/a&gt; Very cool!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Apr 2017 05:02:00 +0000</pubDate>
+        <link>http://jd.micro.blog/2017/04/30/extinguishing-fire-with.html</link>
+        <guid isPermaLink="true">http://jd.micro.blog/2017/04/30/extinguishing-fire-with.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;Amazon’s Echo Look device looks like a HAL9000 panel, except that it’s white with a blue light instead of black with a red light.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Apr 2017 18:52:00 +0000</pubDate>
+        <link>http://jd.micro.blog/2017/04/29/amazons-echo-look.html</link>
+        <guid isPermaLink="true">http://jd.micro.blog/2017/04/29/amazons-echo-look.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;Now being on micro.blog, there don’t seem to be many (if any?) &lt;a href=&quot;https://micropub.rocks/implementation-reports/servers/&quot;&gt;Micropub servers&lt;/a&gt; that are meant for general use. Anyone running one of these?&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 Apr 2017 03:18:00 +0000</pubDate>
+        <link>http://jd.micro.blog/2017/04/28/now-being-on.html</link>
+        <guid isPermaLink="true">http://jd.micro.blog/2017/04/28/now-being-on.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;Incidentally, I accidentally found that a previous incarnation of my blog somehow found its way into the book &lt;a href=&quot;https://books.google.com/books?id=_1cnCgAAQBAJ&amp;amp;pg=PA19&amp;amp;dq=%22blog.joshdick.net%22&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=0ahUKEwjk3dOR78PTAhWHyoMKHaVuDkUQ6AEILjAB&quot;&gt;Pro Vim&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Apr 2017 05:13:00 +0000</pubDate>
+        <link>http://jd.micro.blog/2017/04/27/incidentally-i-accidentally.html</link>
+        <guid isPermaLink="true">http://jd.micro.blog/2017/04/27/incidentally-i-accidentally.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;Excited to be on &lt;a href=&quot;https://jd.micro.blog&quot;&gt;micro.blog&lt;/a&gt;! Just launched a redesign of my site &lt;a href=&quot;https://joshdick.net&quot;&gt;joshdick.net&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Apr 2017 05:11:00 +0000</pubDate>
+        <link>http://jd.micro.blog/2017/04/27/excited-to-be.html</link>
+        <guid isPermaLink="true">http://jd.micro.blog/2017/04/27/excited-to-be.html</guid>
+      </item>
+    
+  </channel>
+</rss>
