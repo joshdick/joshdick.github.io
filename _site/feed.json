@@ -1,8 +1,16 @@
 {
+	"version": "https://jsonfeed.org/version/1",
 	"title": "Josh Dick",
 	"home_page_url": "http://jd.micro.blog/",
 	"feed_url": "http://jd.micro.blog/feed.json",
 	"items": [
+		
+		{
+			"id": "http://jd.micro.blog/2017/05/21/this-has-got.html",
+			"content_html": "<p>This has got to be the most mind-bending mash-up ever: Ozzy Osbourne + Earth, Wind, and Fire: <a href=\"https://www.youtube.com/watch?v=FuOuUixdSvY\">www.youtube.com/watch</a></p>\n",
+			"date_published": "2017-05-21T20:03:00+00:00",
+			"url": "http://jd.micro.blog/2017/05/21/this-has-got.html"
+		},
 		
 		{
 			"id": "http://jd.micro.blog/2017/05/16/finished-watching-episode.html",
