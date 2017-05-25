@@ -6,6 +6,13 @@
 	"items": [
 		
 		{
+			"id": "http://jd.micro.blog/2017/05/25/ben-just-signed.html",
+			"content_html": "<p>@ben Just signed up for a <a href=\"https://brooksreview.net/\">brooksreview.net</a> membership; just wanted to give you a heads up that SSL currently seems to be broken/misconfigured on the site.</p>\n",
+			"date_published": "2017-05-25T16:25:00+00:00",
+			"url": "http://jd.micro.blog/2017/05/25/ben-just-signed.html"
+		},
+		
+		{
 			"id": "http://jd.micro.blog/2017/05/21/this-has-got.html",
 			"content_html": "<p>This has got to be the most mind-bending mash-up ever: Ozzy Osbourne + Earth, Wind, and Fire: <a href=\"https://www.youtube.com/watch?v=FuOuUixdSvY\">www.youtube.com/watch</a></p>\n",
 			"date_published": "2017-05-21T20:03:00+00:00",
@@ -66,13 +73,6 @@
 			"content_html": "<p>Incidentally, I accidentally found that a previous incarnation of my blog somehow found its way into the book <a href=\"https://books.google.com/books?id=_1cnCgAAQBAJ&amp;pg=PA19&amp;dq=%22blog.joshdick.net%22&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjk3dOR78PTAhWHyoMKHaVuDkUQ6AEILjAB\">Pro Vim</a>.</p>\n",
 			"date_published": "2017-04-27T05:13:00+00:00",
 			"url": "http://jd.micro.blog/2017/04/27/incidentally-i-accidentally.html"
-		},
-		
-		{
-			"id": "http://jd.micro.blog/2017/04/27/excited-to-be.html",
-			"content_html": "<p>Excited to be on <a href=\"https://jd.micro.blog\">micro.blog</a>! Just launched a redesign of my site <a href=\"https://joshdick.net\">joshdick.net</a>.</p>\n",
-			"date_published": "2017-04-27T05:11:00+00:00",
-			"url": "http://jd.micro.blog/2017/04/27/excited-to-be.html"
 		}
 		
 	]
