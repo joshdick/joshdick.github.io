@@ -23,3 +23,5 @@ full_name: "Josh Dick"
 bio: ""
 twitter_username: ""
 github_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
