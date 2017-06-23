@@ -6,13 +6,6 @@
 	"items": [
 		
 		{
-			"id": "http://jd.micro.blog/2017/06/23/trying-a-new.html",
-			"content_html": "<p>Trying a new font from typography.com on my site, <a href=\"https://joshdick.net.\">joshdick.net.</a> What do you think?</p>\n",
-			"date_published": "2017-06-23T21:49:00+00:00",
-			"url": "http://jd.micro.blog/2017/06/23/trying-a-new.html"
-		},
-		
-		{
 			"id": "http://jd.micro.blog/2017/05/29/new-blog-post.html",
 			"content_html": "<p>New blog post: <a href=\"https://joshdick.net/2017/05/29/controlling_whitespace_and_empty_lines_in_jekyll.html\">Controlling Whitespace and Empty Lines in Jekyll</a></p>\n",
 			"date_published": "2017-05-29T23:44:00+00:00",
@@ -73,6 +66,13 @@
 			"content_html": "<p>Now being on micro.blog, there don’t seem to be many (if any?) <a href=\"https://micropub.rocks/implementation-reports/servers/\">Micropub servers</a> that are meant for general use. Anyone running one of these?</p>\n",
 			"date_published": "2017-04-28T03:18:00+00:00",
 			"url": "http://jd.micro.blog/2017/04/28/now-being-on.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/04/27/incidentally-i-accidentally.html",
+			"content_html": "<p>Incidentally, I accidentally found that a previous incarnation of my blog somehow found its way into the book <a href=\"https://books.google.com/books?id=_1cnCgAAQBAJ&amp;pg=PA19&amp;dq=%22blog.joshdick.net%22&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjk3dOR78PTAhWHyoMKHaVuDkUQ6AEILjAB\">Pro Vim</a>.</p>\n",
+			"date_published": "2017-04-27T05:13:00+00:00",
+			"url": "http://jd.micro.blog/2017/04/27/incidentally-i-accidentally.html"
 		}
 		
 	]
