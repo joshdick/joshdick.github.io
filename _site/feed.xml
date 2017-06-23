@@ -4,8 +4,24 @@
     <title>Josh Dick</title>
     <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
     <link>http://jd.micro.blog/</link>
-    <pubDate>Fri, 23 Jun 2017 22:05:51 +0000</pubDate>
-    <lastBuildDate>Fri, 23 Jun 2017 22:05:51 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Jun 2017 22:08:10 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Jun 2017 22:08:10 +0000</lastBuildDate>
+    
+      <item>
+        <description>&lt;p&gt;@manton Possible bug: URL parsing includes trailing periods when it probably shouldn’t, like this: &lt;a href=&quot;https://example.net.&quot;&gt;example.net.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Jun 2017 22:07:00 +0000</pubDate>
+        <link>http://jd.micro.blog/2017/06/23/manton-possible-bug.html</link>
+        <guid isPermaLink="true">http://jd.micro.blog/2017/06/23/manton-possible-bug.html</guid>
+      </item>
+    
+      <item>
+        <description>&lt;p&gt;Trying a new font from &lt;a href=&quot;https://typography.com&quot;&gt;typography.com&lt;/a&gt; on my site, &lt;a href=&quot;https://joshdick.net&quot;&gt;joshdick.net&lt;/a&gt; . What do you think?&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Jun 2017 22:06:00 +0000</pubDate>
+        <link>http://jd.micro.blog/2017/06/23/trying-a-new.html</link>
+        <guid isPermaLink="true">http://jd.micro.blog/2017/06/23/trying-a-new.html</guid>
+      </item>
     
       <item>
         <description>&lt;p&gt;New blog post: &lt;a href=&quot;https://joshdick.net/2017/05/29/controlling_whitespace_and_empty_lines_in_jekyll.html&quot;&gt;Controlling Whitespace and Empty Lines in Jekyll&lt;/a&gt;&lt;/p&gt;
