@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2017-05-05 16:58
+date: 2017-05-05 12:58 -0400
+guid: http://jd.micro.blog/2017/05/05/baby-oyster-mushrooms.html
 ---
 Baby oyster mushrooms are just starting to grow up! They look both gross and fascinating.
 
