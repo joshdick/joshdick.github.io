@@ -1,0 +1,129 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Josh Dick",
+	"home_page_url": "https://jd.micro.blog/",
+	"feed_url": "https://jd.micro.blog/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://jd.micro.blog/2018/08/14/watched-a-few.html",
+	      	
+			"content_text": "Watched a few episodes of Batman: The Animated Series after...",
+			"date_published": "2018-08-13T21:17:15-04:00",
+			"url": "https://jd.micro.blog/2018/08/13/watched-a-few.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/07/06/remember-theseimg-srchttpjdmicrobloguploadsbfdbjpg.html",
+	      	
+			"content_text": "Remember these?\n\n\n",
+			"date_published": "2017-07-06T01:18:21-04:00",
+			"url": "https://jd.micro.blog/2017/07/06/remember-theseimg-srchttpjdmicrobloguploadsbfdbjpg.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/06/23/manton-possible-bug.html",
+	      	
+			"content_text": "@manton Possible bug: URL parsing includes trailing periods when it...",
+			"date_published": "2017-06-23T18:07:11-04:00",
+			"url": "https://jd.micro.blog/2017/06/23/manton-possible-bug.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/06/23/trying-a-new.html",
+	      	
+			"content_text": "Trying a new font from typography.com on my site, joshdick.net...",
+			"date_published": "2017-06-23T18:06:07-04:00",
+			"url": "https://jd.micro.blog/2017/06/23/trying-a-new.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/05/29/new-blog-post.html",
+	      	
+			"content_text": "New blog post: Controlling Whitespace and Empty Lines in Jekyll...",
+			"date_published": "2017-05-29T19:44:47-04:00",
+			"url": "https://jd.micro.blog/2017/05/29/new-blog-post.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/05/21/this-has-got.html",
+	      	
+			"content_text": "This has got to be the most mind-bending mash-up ever:...",
+			"date_published": "2017-05-21T16:03:51-04:00",
+			"url": "https://jd.micro.blog/2017/05/21/this-has-got.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/05/16/finished-watching-episode.html",
+	      	
+			"content_text": "Finished watching episode 1 of Westworld and pumped to watch...",
+			"date_published": "2017-05-16T00:45:37-04:00",
+			"url": "https://jd.micro.blog/2017/05/16/finished-watching-episode.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/05/05/baby-oyster-mushrooms.html",
+	      	
+			"content_text": "Baby oyster mushrooms are just starting to grow up! They...",
+			"date_published": "2017-05-05T12:58:48-04:00",
+			"url": "https://jd.micro.blog/2017/05/05/baby-oyster-mushrooms.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/05/04/sometimes-my-office.html",
+	      	
+			"content_text": "Sometimes my office is alright.\n\n\n",
+			"date_published": "2017-05-04T10:31:06-04:00",
+			"url": "https://jd.micro.blog/2017/05/04/sometimes-my-office.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/05/04/todays-dictionarycom-word.html",
+	      	
+			"content_text": "Today’s dictionary.com word of the day is “coruscant”. I see...",
+			"date_published": "2017-05-04T09:56:42-04:00",
+			"url": "https://jd.micro.blog/2017/05/04/todays-dictionarycom-word.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/04/30/extinguishing-fire-with.html",
+	      	
+			"content_text": "Extinguishing fire with gunpowder: [www.youtube.com/watch](https://www.youtube.com/watch?v=aGgz-VjMEeY) Very cool!\n",
+			"date_published": "2017-04-30T01:02:49-04:00",
+			"url": "https://jd.micro.blog/2017/04/30/extinguishing-fire-with.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/04/29/amazons-echo-look.html",
+	      	
+			"content_text": "Amazon’s Echo Look device looks like a HAL9000 panel, except...",
+			"date_published": "2017-04-29T14:52:11-04:00",
+			"url": "https://jd.micro.blog/2017/04/29/amazons-echo-look.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/04/28/now-being-on.html",
+	      	
+			"content_text": "Now being on micro.blog, there don’t seem to be many...",
+			"date_published": "2017-04-27T23:18:32-04:00",
+			"url": "https://jd.micro.blog/2017/04/27/now-being-on.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/04/27/incidentally-i-accidentally.html",
+	      	
+			"content_text": "Incidentally, I accidentally found that a previous incarnation of my...",
+			"date_published": "2017-04-27T01:13:21-04:00",
+			"url": "https://jd.micro.blog/2017/04/27/incidentally-i-accidentally.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/04/27/excited-to-be.html",
+	      	
+			"content_text": "Excited to be on micro.blog! Just launched a redesign of...",
+			"date_published": "2017-04-27T01:11:59-04:00",
+			"url": "https://jd.micro.blog/2017/04/27/excited-to-be.html"
+		}
+		
+	]
+}
