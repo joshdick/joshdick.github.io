@@ -1,78 +1,128 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Josh Dick",
-	"home_page_url": "http://jd.micro.blog/",
-	"feed_url": "http://jd.micro.blog/feed.json",
+	"home_page_url": "https://jd.micro.blog/",
+	"feed_url": "https://jd.micro.blog/feed.json",
 	"items": [
 		
 		{
+			"id": "http://jd.micro.blog/2018/08/14/watched-a-few.html",
+	      	
+			"content_html": "<p>Watched a few episodes of Batman: The Animated Series after feeling nostalgia from seeing in on Reddit. It holds up very well and made me reaffirm my opinion that Mark Hamill is the quintessential Joker.</p>\n",
+			"date_published": "2018-08-13T21:17:15-04:00",
+			"url": "https://jd.micro.blog/2018/08/13/watched-a-few.html"
+		},
+		
+		{
 			"id": "http://jd.micro.blog/2017/07/06/remember-theseimg-srchttpjdmicrobloguploadsbfdbjpg.html",
+	      	
 			"content_html": "<p>Remember these?</p>\n\n<p><img src=\"http://jd.micro.blog/uploads/2017/2b7fd0b935.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-06T05:18:00+00:00",
-			"url": "http://jd.micro.blog/2017/07/06/remember-theseimg-srchttpjdmicrobloguploadsbfdbjpg.html"
+			"date_published": "2017-07-06T01:18:21-04:00",
+			"url": "https://jd.micro.blog/2017/07/06/remember-theseimg-srchttpjdmicrobloguploadsbfdbjpg.html"
 		},
 		
 		{
 			"id": "http://jd.micro.blog/2017/06/23/manton-possible-bug.html",
+	      	
 			"content_html": "<p>@manton Possible bug: URL parsing includes trailing periods when it probably shouldn’t, like this: <a href=\"https://example.net.\">example.net.</a></p>\n",
-			"date_published": "2017-06-23T22:07:00+00:00",
-			"url": "http://jd.micro.blog/2017/06/23/manton-possible-bug.html"
+			"date_published": "2017-06-23T18:07:11-04:00",
+			"url": "https://jd.micro.blog/2017/06/23/manton-possible-bug.html"
 		},
 		
 		{
 			"id": "http://jd.micro.blog/2017/06/23/trying-a-new.html",
+	      	
 			"content_html": "<p>Trying a new font from <a href=\"https://typography.com\">typography.com</a> on my site, <a href=\"https://joshdick.net\">joshdick.net</a> . What do you think?</p>\n",
-			"date_published": "2017-06-23T22:06:00+00:00",
-			"url": "http://jd.micro.blog/2017/06/23/trying-a-new.html"
+			"date_published": "2017-06-23T18:06:07-04:00",
+			"url": "https://jd.micro.blog/2017/06/23/trying-a-new.html"
 		},
 		
 		{
 			"id": "http://jd.micro.blog/2017/05/29/new-blog-post.html",
+	      	
 			"content_html": "<p>New blog post: <a href=\"https://joshdick.net/2017/05/29/controlling_whitespace_and_empty_lines_in_jekyll.html\">Controlling Whitespace and Empty Lines in Jekyll</a></p>\n",
-			"date_published": "2017-05-29T23:44:00+00:00",
-			"url": "http://jd.micro.blog/2017/05/29/new-blog-post.html"
+			"date_published": "2017-05-29T19:44:47-04:00",
+			"url": "https://jd.micro.blog/2017/05/29/new-blog-post.html"
 		},
 		
 		{
 			"id": "http://jd.micro.blog/2017/05/21/this-has-got.html",
+	      	
 			"content_html": "<p>This has got to be the most mind-bending mash-up ever: Ozzy Osbourne + Earth, Wind, and Fire: <a href=\"https://www.youtube.com/watch?v=FuOuUixdSvY\">www.youtube.com/watch</a></p>\n",
-			"date_published": "2017-05-21T20:03:00+00:00",
-			"url": "http://jd.micro.blog/2017/05/21/this-has-got.html"
+			"date_published": "2017-05-21T16:03:51-04:00",
+			"url": "https://jd.micro.blog/2017/05/21/this-has-got.html"
 		},
 		
 		{
 			"id": "http://jd.micro.blog/2017/05/16/finished-watching-episode.html",
+	      	
 			"content_html": "<p>Finished watching episode 1 of Westworld and pumped to watch more. Can’t Google anything without spoilers, though. Better late than never?</p>\n",
-			"date_published": "2017-05-16T04:45:00+00:00",
-			"url": "http://jd.micro.blog/2017/05/16/finished-watching-episode.html"
+			"date_published": "2017-05-16T00:45:37-04:00",
+			"url": "https://jd.micro.blog/2017/05/16/finished-watching-episode.html"
 		},
 		
 		{
 			"id": "http://jd.micro.blog/2017/05/05/baby-oyster-mushrooms.html",
+	      	
 			"content_html": "<p>Baby oyster mushrooms are just starting to grow up! They look both gross and fascinating.</p>\n\n<p><img src=\"http://jd.micro.blog/uploads/2017/30d9ea9946.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-05-05T16:58:00+00:00",
-			"url": "http://jd.micro.blog/2017/05/05/baby-oyster-mushrooms.html"
+			"date_published": "2017-05-05T12:58:48-04:00",
+			"url": "https://jd.micro.blog/2017/05/05/baby-oyster-mushrooms.html"
 		},
 		
 		{
 			"id": "http://jd.micro.blog/2017/05/04/sometimes-my-office.html",
+	      	
 			"content_html": "<p>Sometimes my office is alright.</p>\n\n<p><img src=\"http://jd.micro.blog/uploads/2017/e53fbe9d0a.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-05-04T14:31:00+00:00",
-			"url": "http://jd.micro.blog/2017/05/04/sometimes-my-office.html"
+			"date_published": "2017-05-04T10:31:06-04:00",
+			"url": "https://jd.micro.blog/2017/05/04/sometimes-my-office.html"
 		},
 		
 		{
 			"id": "http://jd.micro.blog/2017/05/04/todays-dictionarycom-word.html",
+	      	
 			"content_html": "<p>Today’s <a href=\"http://www.dictionary.com/wordoftheday/2017/05/04/coruscant\">dictionary.com word of the day</a> is “coruscant”. I see what they did there.</p>\n",
-			"date_published": "2017-05-04T13:56:00+00:00",
-			"url": "http://jd.micro.blog/2017/05/04/todays-dictionarycom-word.html"
+			"date_published": "2017-05-04T09:56:42-04:00",
+			"url": "https://jd.micro.blog/2017/05/04/todays-dictionarycom-word.html"
 		},
 		
 		{
 			"id": "http://jd.micro.blog/2017/04/30/extinguishing-fire-with.html",
+	      	
 			"content_html": "<p>Extinguishing fire with gunpowder: <a href=\"https://www.youtube.com/watch?v=aGgz-VjMEeY\">[www.youtube.com/watch](https://www.youtube.com/watch?v=aGgz-VjMEeY</a>) Very cool!</p>\n",
-			"date_published": "2017-04-30T05:02:00+00:00",
-			"url": "http://jd.micro.blog/2017/04/30/extinguishing-fire-with.html"
+			"date_published": "2017-04-30T01:02:49-04:00",
+			"url": "https://jd.micro.blog/2017/04/30/extinguishing-fire-with.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/04/29/amazons-echo-look.html",
+	      	
+			"content_html": "<p>Amazon’s Echo Look device looks like a HAL9000 panel, except that it’s white with a blue light instead of black with a red light.</p>\n",
+			"date_published": "2017-04-29T14:52:11-04:00",
+			"url": "https://jd.micro.blog/2017/04/29/amazons-echo-look.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/04/28/now-being-on.html",
+	      	
+			"content_html": "<p>Now being on micro.blog, there don’t seem to be many (if any?) <a href=\"https://micropub.rocks/implementation-reports/servers/\">Micropub servers</a> that are meant for general use. Anyone running one of these?</p>\n",
+			"date_published": "2017-04-27T23:18:32-04:00",
+			"url": "https://jd.micro.blog/2017/04/27/now-being-on.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/04/27/incidentally-i-accidentally.html",
+	      	
+			"content_html": "<p>Incidentally, I accidentally found that a previous incarnation of my blog somehow found its way into the book <a href=\"https://books.google.com/books?id=_1cnCgAAQBAJ&amp;pg=PA19&amp;dq=%22blog.joshdick.net%22&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjk3dOR78PTAhWHyoMKHaVuDkUQ6AEILjAB\">Pro Vim</a>.</p>\n",
+			"date_published": "2017-04-27T01:13:21-04:00",
+			"url": "https://jd.micro.blog/2017/04/27/incidentally-i-accidentally.html"
+		},
+		
+		{
+			"id": "http://jd.micro.blog/2017/04/27/excited-to-be.html",
+	      	
+			"content_html": "<p>Excited to be on <a href=\"https://jd.micro.blog\">micro.blog</a>! Just launched a redesign of my site <a href=\"https://joshdick.net\">joshdick.net</a>.</p>\n",
+			"date_published": "2017-04-27T01:11:59-04:00",
+			"url": "https://jd.micro.blog/2017/04/27/excited-to-be.html"
 		}
 		
 	]
