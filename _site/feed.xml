@@ -2,126 +2,149 @@
 <rss version="2.0">
   <channel>
     <title>Josh Dick</title>
-    <description>Powered by &lt;a href=&quot;http://micro.blog/&quot;&gt;Micro.blog&lt;/a&gt;.</description>
-    <link>http://jd.micro.blog/</link>
-    <pubDate>Thu, 06 Jul 2017 05:18:22 +0000</pubDate>
-    <lastBuildDate>Thu, 06 Jul 2017 05:18:22 +0000</lastBuildDate>
+    <description>Follow &lt;a href=&quot;https://micro.blog/jd&quot;&gt;@jd on Micro.blog&lt;/a&gt;.</description>
+    <link>https://jd.micro.blog/</link>
+    <pubDate>Mon, 13 Aug 2018 21:19:06 -0400</pubDate>
+    <lastBuildDate>Mon, 13 Aug 2018 21:19:06 -0400</lastBuildDate>
     
       <item>
+      	
+        <description>&lt;p&gt;Watched a few episodes of Batman: The Animated Series after feeling nostalgia from seeing in on Reddit. It holds up very well and made me reaffirm my opinion that Mark Hamill is the quintessential Joker.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Aug 2018 21:17:15 -0400</pubDate>
+        <link>https://jd.micro.blog/2018/08/13/watched-a-few.html</link>
+        <guid isPermaLink="true">http://jd.micro.blog/2018/08/14/watched-a-few.html</guid>
+      </item>
+    
+      <item>
+      	
         <description>&lt;p&gt;Remember these?&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://jd.micro.blog/uploads/2017/2b7fd0b935.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 06 Jul 2017 05:18:00 +0000</pubDate>
-        <link>http://jd.micro.blog/2017/07/06/remember-theseimg-srchttpjdmicrobloguploadsbfdbjpg.html</link>
+        <pubDate>Thu, 06 Jul 2017 01:18:21 -0400</pubDate>
+        <link>https://jd.micro.blog/2017/07/06/remember-theseimg-srchttpjdmicrobloguploadsbfdbjpg.html</link>
         <guid isPermaLink="true">http://jd.micro.blog/2017/07/06/remember-theseimg-srchttpjdmicrobloguploadsbfdbjpg.html</guid>
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;@manton Possible bug: URL parsing includes trailing periods when it probably shouldn’t, like this: &lt;a href=&quot;https://example.net.&quot;&gt;example.net.&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 23 Jun 2017 22:07:00 +0000</pubDate>
-        <link>http://jd.micro.blog/2017/06/23/manton-possible-bug.html</link>
+        <pubDate>Fri, 23 Jun 2017 18:07:11 -0400</pubDate>
+        <link>https://jd.micro.blog/2017/06/23/manton-possible-bug.html</link>
         <guid isPermaLink="true">http://jd.micro.blog/2017/06/23/manton-possible-bug.html</guid>
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Trying a new font from &lt;a href=&quot;https://typography.com&quot;&gt;typography.com&lt;/a&gt; on my site, &lt;a href=&quot;https://joshdick.net&quot;&gt;joshdick.net&lt;/a&gt; . What do you think?&lt;/p&gt;
 </description>
-        <pubDate>Fri, 23 Jun 2017 22:06:00 +0000</pubDate>
-        <link>http://jd.micro.blog/2017/06/23/trying-a-new.html</link>
+        <pubDate>Fri, 23 Jun 2017 18:06:07 -0400</pubDate>
+        <link>https://jd.micro.blog/2017/06/23/trying-a-new.html</link>
         <guid isPermaLink="true">http://jd.micro.blog/2017/06/23/trying-a-new.html</guid>
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;New blog post: &lt;a href=&quot;https://joshdick.net/2017/05/29/controlling_whitespace_and_empty_lines_in_jekyll.html&quot;&gt;Controlling Whitespace and Empty Lines in Jekyll&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 29 May 2017 23:44:00 +0000</pubDate>
-        <link>http://jd.micro.blog/2017/05/29/new-blog-post.html</link>
+        <pubDate>Mon, 29 May 2017 19:44:47 -0400</pubDate>
+        <link>https://jd.micro.blog/2017/05/29/new-blog-post.html</link>
         <guid isPermaLink="true">http://jd.micro.blog/2017/05/29/new-blog-post.html</guid>
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;This has got to be the most mind-bending mash-up ever: Ozzy Osbourne + Earth, Wind, and Fire: &lt;a href=&quot;https://www.youtube.com/watch?v=FuOuUixdSvY&quot;&gt;www.youtube.com/watch&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 21 May 2017 20:03:00 +0000</pubDate>
-        <link>http://jd.micro.blog/2017/05/21/this-has-got.html</link>
+        <pubDate>Sun, 21 May 2017 16:03:51 -0400</pubDate>
+        <link>https://jd.micro.blog/2017/05/21/this-has-got.html</link>
         <guid isPermaLink="true">http://jd.micro.blog/2017/05/21/this-has-got.html</guid>
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Finished watching episode 1 of Westworld and pumped to watch more. Can’t Google anything without spoilers, though. Better late than never?&lt;/p&gt;
 </description>
-        <pubDate>Tue, 16 May 2017 04:45:00 +0000</pubDate>
-        <link>http://jd.micro.blog/2017/05/16/finished-watching-episode.html</link>
+        <pubDate>Tue, 16 May 2017 00:45:37 -0400</pubDate>
+        <link>https://jd.micro.blog/2017/05/16/finished-watching-episode.html</link>
         <guid isPermaLink="true">http://jd.micro.blog/2017/05/16/finished-watching-episode.html</guid>
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Baby oyster mushrooms are just starting to grow up! They look both gross and fascinating.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://jd.micro.blog/uploads/2017/30d9ea9946.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 05 May 2017 16:58:00 +0000</pubDate>
-        <link>http://jd.micro.blog/2017/05/05/baby-oyster-mushrooms.html</link>
+        <pubDate>Fri, 05 May 2017 12:58:48 -0400</pubDate>
+        <link>https://jd.micro.blog/2017/05/05/baby-oyster-mushrooms.html</link>
         <guid isPermaLink="true">http://jd.micro.blog/2017/05/05/baby-oyster-mushrooms.html</guid>
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Sometimes my office is alright.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://jd.micro.blog/uploads/2017/e53fbe9d0a.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; style=&quot;height: auto&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 04 May 2017 14:31:00 +0000</pubDate>
-        <link>http://jd.micro.blog/2017/05/04/sometimes-my-office.html</link>
+        <pubDate>Thu, 04 May 2017 10:31:06 -0400</pubDate>
+        <link>https://jd.micro.blog/2017/05/04/sometimes-my-office.html</link>
         <guid isPermaLink="true">http://jd.micro.blog/2017/05/04/sometimes-my-office.html</guid>
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Today’s &lt;a href=&quot;http://www.dictionary.com/wordoftheday/2017/05/04/coruscant&quot;&gt;dictionary.com word of the day&lt;/a&gt; is “coruscant”. I see what they did there.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 04 May 2017 13:56:00 +0000</pubDate>
-        <link>http://jd.micro.blog/2017/05/04/todays-dictionarycom-word.html</link>
+        <pubDate>Thu, 04 May 2017 09:56:42 -0400</pubDate>
+        <link>https://jd.micro.blog/2017/05/04/todays-dictionarycom-word.html</link>
         <guid isPermaLink="true">http://jd.micro.blog/2017/05/04/todays-dictionarycom-word.html</guid>
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Extinguishing fire with gunpowder: &lt;a href=&quot;https://www.youtube.com/watch?v=aGgz-VjMEeY&quot;&gt;[www.youtube.com/watch](https://www.youtube.com/watch?v=aGgz-VjMEeY&lt;/a&gt;) Very cool!&lt;/p&gt;
 </description>
-        <pubDate>Sun, 30 Apr 2017 05:02:00 +0000</pubDate>
-        <link>http://jd.micro.blog/2017/04/30/extinguishing-fire-with.html</link>
+        <pubDate>Sun, 30 Apr 2017 01:02:49 -0400</pubDate>
+        <link>https://jd.micro.blog/2017/04/30/extinguishing-fire-with.html</link>
         <guid isPermaLink="true">http://jd.micro.blog/2017/04/30/extinguishing-fire-with.html</guid>
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Amazon’s Echo Look device looks like a HAL9000 panel, except that it’s white with a blue light instead of black with a red light.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 29 Apr 2017 18:52:00 +0000</pubDate>
-        <link>http://jd.micro.blog/2017/04/29/amazons-echo-look.html</link>
+        <pubDate>Sat, 29 Apr 2017 14:52:11 -0400</pubDate>
+        <link>https://jd.micro.blog/2017/04/29/amazons-echo-look.html</link>
         <guid isPermaLink="true">http://jd.micro.blog/2017/04/29/amazons-echo-look.html</guid>
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Now being on micro.blog, there don’t seem to be many (if any?) &lt;a href=&quot;https://micropub.rocks/implementation-reports/servers/&quot;&gt;Micropub servers&lt;/a&gt; that are meant for general use. Anyone running one of these?&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 Apr 2017 03:18:00 +0000</pubDate>
-        <link>http://jd.micro.blog/2017/04/28/now-being-on.html</link>
+        <pubDate>Thu, 27 Apr 2017 23:18:32 -0400</pubDate>
+        <link>https://jd.micro.blog/2017/04/27/now-being-on.html</link>
         <guid isPermaLink="true">http://jd.micro.blog/2017/04/28/now-being-on.html</guid>
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Incidentally, I accidentally found that a previous incarnation of my blog somehow found its way into the book &lt;a href=&quot;https://books.google.com/books?id=_1cnCgAAQBAJ&amp;amp;pg=PA19&amp;amp;dq=%22blog.joshdick.net%22&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=0ahUKEwjk3dOR78PTAhWHyoMKHaVuDkUQ6AEILjAB&quot;&gt;Pro Vim&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 Apr 2017 05:13:00 +0000</pubDate>
-        <link>http://jd.micro.blog/2017/04/27/incidentally-i-accidentally.html</link>
+        <pubDate>Thu, 27 Apr 2017 01:13:21 -0400</pubDate>
+        <link>https://jd.micro.blog/2017/04/27/incidentally-i-accidentally.html</link>
         <guid isPermaLink="true">http://jd.micro.blog/2017/04/27/incidentally-i-accidentally.html</guid>
       </item>
     
       <item>
+      	
         <description>&lt;p&gt;Excited to be on &lt;a href=&quot;https://jd.micro.blog&quot;&gt;micro.blog&lt;/a&gt;! Just launched a redesign of my site &lt;a href=&quot;https://joshdick.net&quot;&gt;joshdick.net&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 27 Apr 2017 05:11:00 +0000</pubDate>
-        <link>http://jd.micro.blog/2017/04/27/excited-to-be.html</link>
+        <pubDate>Thu, 27 Apr 2017 01:11:59 -0400</pubDate>
+        <link>https://jd.micro.blog/2017/04/27/excited-to-be.html</link>
         <guid isPermaLink="true">http://jd.micro.blog/2017/04/27/excited-to-be.html</guid>
       </item>
     
